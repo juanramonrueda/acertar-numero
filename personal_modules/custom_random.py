@@ -126,4 +126,4 @@ def funcion_principal():
 
         print(f'\nTe ha costado {contador_intentos} vez/veces\n')
 
-        input('\nPulse la tecla Intro o Enter para continuar con la ejecución del programa\n')
+        input('\nPulse la tecla Intro o Enter para continuar...\n')
